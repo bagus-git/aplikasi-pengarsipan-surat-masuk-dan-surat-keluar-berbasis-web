@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscaripetugas" value="name:id;datatype:string,name:nama_depan;datatype:string,name:nama _belakang;datatype:string,name:password;datatype:string,name:hak;datatype:string" />
+</info>

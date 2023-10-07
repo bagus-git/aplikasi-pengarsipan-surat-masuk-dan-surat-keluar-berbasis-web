@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscarisuratkeluar" value="name:no_agenda;datatype:string,name:id;datatype:string,name:jenis_surat;datatype:string,name:tanggal_kirim;datatype:string,name:no_surat;datatype:string,name:pengirim;datatype:string,name:perihal;datatype:string" />
+</info>

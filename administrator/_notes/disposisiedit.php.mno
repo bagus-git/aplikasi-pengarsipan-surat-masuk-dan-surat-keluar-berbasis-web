@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsdisposisi" value="name:no_disposisi;datatype:string,name:no_agenda;datatype:string,name:no_surat;datatype:string,name:kepada;datatype:string,name:keterangan;datatype:string,name:status_surat;datatype:string,name:tanggapan;datatype:string" />
+</info>
